@@ -1,0 +1,12 @@
+# Define a function get_last_element that takes a list lst as a parameter
+def get_last_element(lst):
+
+    # Access and print the last element of the list using negative indexing
+    print(lst[-1])
+
+# Example list with several elements
+lst = ["alie", "boby", "tomy"]
+
+# Call the get_last_element function and pass the list lst as an argument
+
+get_last_element(lst)
